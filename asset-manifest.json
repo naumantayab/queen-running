@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/queen-running/static/css/main.b84f0aa3.chunk.css",
+    "main.js": "/queen-running/static/js/main.e04d5ac3.chunk.js",
+    "main.js.map": "/queen-running/static/js/main.e04d5ac3.chunk.js.map",
+    "runtime-main.js": "/queen-running/static/js/runtime-main.485e7849.js",
+    "runtime-main.js.map": "/queen-running/static/js/runtime-main.485e7849.js.map",
+    "static/js/2.57a1c895.chunk.js": "/queen-running/static/js/2.57a1c895.chunk.js",
+    "static/js/2.57a1c895.chunk.js.map": "/queen-running/static/js/2.57a1c895.chunk.js.map",
+    "index.html": "/queen-running/index.html",
+    "static/css/main.b84f0aa3.chunk.css.map": "/queen-running/static/css/main.b84f0aa3.chunk.css.map",
+    "static/js/2.57a1c895.chunk.js.LICENSE.txt": "/queen-running/static/js/2.57a1c895.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.485e7849.js",
+    "static/js/2.57a1c895.chunk.js",
+    "static/css/main.b84f0aa3.chunk.css",
+    "static/js/main.e04d5ac3.chunk.js"
+  ]
+}
